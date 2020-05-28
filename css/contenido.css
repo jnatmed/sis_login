@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+}
+form{
+    background-color: aquamarine;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+.input label{
+    display: block;
+    width: 0;
+}
